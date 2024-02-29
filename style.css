@@ -4,6 +4,13 @@ body{
 }
 p{
     background-color: azure;
-    width: 10px;
-    height: 20px;
+    width: 200px;
+    height: 200px;
+    font-size: 2em;
+}
+.container{
+    background-color: green;
+    justify-content: space-around;
+    display: flex;
+    
 }
